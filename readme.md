@@ -2,6 +2,8 @@
 
 This is a weather app from "The Complete 2022 Web Development Bootcamp", available from Udemy.
 
+I have re-deployed this to GitHub. This time it features a .gitignore file, and an environmental variable.
+
 This project is from "Section 20: APIs - Application Programming Interfaces", and features HTML and JavaScript.
 
 ## More about the course from the Udemy website:
